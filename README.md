@@ -9,8 +9,8 @@
   <img align="left" alt="Adith's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=cloneartist.cloneartist)
-[![GitHub Cloneartist](https://img.shields.io/github/followers/cloneartist?label=follow&style=social)](https://github.com/cloneartist)&nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=gokulhans.gokulhans)
+[![GitHub Gokulhans](https://img.shields.io/github/followers/gokulhans?label=follow&style=social)](https://github.com/gokulhans)&nbsp;
 
 
 ### 👨🏻‍💻 About Me
@@ -19,12 +19,13 @@
 - 🌱  I'm on track for learning more MERN stack.
 - 💼 Any freelance work? Do reach, [email](mailto:gokulhansv@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-
+- 
+<br>
+<br>
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 ### 🛠 Languages and Tools:  
 
-<br>
 <br>
 <br>
 
@@ -33,10 +34,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
