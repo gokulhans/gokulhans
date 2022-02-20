@@ -3,10 +3,10 @@
 <!-- <a href="https://discord.gg/   ">
   <img align="left" alt="Adith's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<!-- <a href="https://twitter.com/adith-anandhan">
+<!-- <a href="https://twitter.com/gokulhansv">
   <img align="left" alt="Adith | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/adith-anandhan/">
+<a href="https://www.linkedin.com/in/gokulhansv">
   <img align="left" alt="Adith's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="  ">
