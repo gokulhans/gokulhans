@@ -12,17 +12,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cloneartist.cloneartist)
 [![GitHub Cloneartist](https://img.shields.io/github/followers/cloneartist?label=follow&style=social)](https://github.com/cloneartist)&nbsp;
 
-<br />
-<!-- Hi, I'm [Adith Pozhekadavil Anandhan](https://github.com/cloneartist), a Second year Computer Science and Engineering student from India.-->
+
 ### 👨🏻‍💻 About Me
-<!-- A sophomore student pursuing bachelor's degree in **Computer Science and Engineering** -->
-- 🎓  I'm a third year Computer Science and Engineering student.
-- 🌱  I'm on track for learning more about Cybersecurity and Machine Learning.
-- 💼 Any freelance work? Do reach, [email](mailto:thatcloneartist@gmail.com) :)
+
+- 🎓  I'm a First year BCA student.
+- 🌱  I'm on track for learning more MERN stack.
+- 💼 Any freelance work? Do reach, [email](mailto:gokulhansv@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-<!-- ✍️ In my free time I do freelance photography. -->
-<!-- 💬 Feel free to reach out to me for discussions on the aforementioned topics!-->
-<!-- - 💡  I'm currently working as a Mobile application developer intern at Noob Community.  -->
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
@@ -38,9 +34,6 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   
-  <br>
-
-<br>
 <br>
 <br>
 <br>
