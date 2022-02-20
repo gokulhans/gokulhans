@@ -1,17 +1,21 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/   ">
+
+<a href="https://discord.gg/   ">
   <img align="left" alt="Adith's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<!-- <a href="https://twitter.com/gokulhansv">
+</a>
+
+<a href="https://twitter.com/gokulhansv">
   <img align="left" alt="Adith | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+</a>
+
 <a href="https://www.linkedin.com/in/gokulhansv">
   <img align="left" alt="Adith's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="  ">
+
+<a href="  ">
   <img align="left" alt="Adith's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cloneartist.cloneartist)
 [![GitHub Cloneartist](https://img.shields.io/github/followers/cloneartist?label=follow&style=social)](https://github.com/cloneartist)&nbsp;
