@@ -1,7 +1,4 @@
 
-  ![BannerGIF](https://github.com/cloneartist/cloneartist/blob/main/Adith.gif)
-
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <a href="https://discord.gg/   ">
   <img align="left" alt="Adith's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -56,14 +53,14 @@
 <!-- 
 📈 My GitHub Stats
 <p align="left">
-<a href="https://github.com/cloneartist">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cloneartist&show_icons=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gokulhans">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulhans&show_icons=true&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 <p align="right">
-<a href="https://github.com/cloneartist">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloneartist&layout=compact&langs_count=8"/>
+<a href="https://github.com/gokulhans">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulhans&layout=compact&langs_count=8"/>
 </a>
 </p> -->
 
@@ -78,7 +75,7 @@
 
 <p align="center">
 <a href="https://github.com/gokulhans">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cloneartist&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulhans&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulhans&layout=compact&langs_count=8&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff"/>
 </a>
 </p>
