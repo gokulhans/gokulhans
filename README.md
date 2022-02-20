@@ -9,7 +9,8 @@
   <img align="left" alt="Adith's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
+<br>
+<--
 📈 My GitHub Stats
 <p align="left">
 <a href="https://github.com/gokulhans">
@@ -21,7 +22,7 @@
 <a href="https://github.com/gokulhans">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulhans&layout=compact&langs_count=8"/>
 </a>
-</p>
+</p> -->
 
 <br>
 <br>
