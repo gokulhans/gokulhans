@@ -16,7 +16,7 @@
 ### 👨🏻‍💻 About Me
 <br>
 
-- 🎓  I'm a First year BCA student.
+- 🎓  I'm a Second year BCA student.
 - 🌱  I'm on track for learning more MERN stack.
 - 💼 Any freelance work? Do reach, [email](mailto:gokulhansv@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
