@@ -3,8 +3,8 @@
 
  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,next,mongodb,flutter,dart,git,figma" /><br/>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gokulhans&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhans&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gokulhans&theme=nightowl&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhans&layout=compact&theme=nightowl&count_private=true&hide_border=true)</a>
   <br/>
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gokulhans&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhans&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
