@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gokul+Hans!;" />
+</h1>
+
 # Hey There! 👋
 **I'm Gokul Hans V** - I'm a fullstack developer from India. I’m currently working with Flutter and Mern Stack. Ask me about anything, I am happy to help :)
 
