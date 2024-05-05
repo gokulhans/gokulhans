@@ -1,16 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gokul+Hans!;" />
-</h1>
-
 # Hey There! 👋
 **I'm Gokul Hans V** - I'm a fullstack developer from India. I’m currently working with Flutter and Mern Stack. Ask me about anything, I am happy to help :)
 
  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,next,mongodb,flutter,dart,git,figma" /><br/>
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 <details>
   <summary>Github Stats ⚡</summary>
