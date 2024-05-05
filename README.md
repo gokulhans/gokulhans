@@ -3,6 +3,6 @@
 
  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,next,mongodb,flutter,dart,git,figma" /><br/>
   
-  <a href="#">![Github stats]([https://github-readme-stats.vercel.app/api?username=muhammed-suhaid&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=muhammed-suhaid&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)</a>
   
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhans&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
