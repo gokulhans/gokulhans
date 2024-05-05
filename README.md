@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gokul Hans</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hey There! 👋
+**I'm Thijs** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulhans&label=Profile%20views&color=0e75b6&style=flat" alt="gokulhans" /> </p>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gokulhansv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulhansv" height="30" width="40" /></a>
-</p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulhans&show_icons=true&locale=en&layout=compact" alt="gokulhans" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulhans&show_icons=true&locale=en" alt="gokulhans" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulhans&" alt="gokulhans" /></p>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
